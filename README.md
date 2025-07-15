@@ -50,7 +50,8 @@ The work showcases my learnings in data cleaning, exploratory data analysis, geo
  🔗 LinkedIn Post
 
 *Follow my internship journey:*  
-👉 https://www.linkedin.com/in/ashish-kumar-regar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+👉 [LinkedIn Profile](https://www.linkedin.com/in/ashish-kumar-regar)
+
 
 Tagging @Cognifyz Technologies  
 Hashtags: #cognifyz #cognifyzTech #cognifyzTechnologies
